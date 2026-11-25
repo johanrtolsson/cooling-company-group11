@@ -33,4 +33,4 @@ CSV results are saved in `results/`; figures are saved as PNG and PDF in `graphs
 - Free cooling is a fixed input profile. The hydraulic layout and TES temperature range still need to be reconciled.
 - Costs exclude the common free-cooling investment, distribution network, and pump electricity.
 
-`Backups/` and archive folders preserve earlier model versions and results.
+Archive folders preserve earlier results. Git history preserves earlier code versions.
